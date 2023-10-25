@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ONLINE CLOTHING</title>
+</head>
+<body background="file:///C:/Users/cibid/Downloads/WEB1BAC.jpg">
+    <br>
+<h3 align="center">
+    <a href="#">HOME</a>
+    <a href="#">ABOUT US</a>
+    <a href="#">CLOTH TYPES</a>
+    <a href="#">CONTACT US</a>
+  </h3>
+  <br><br><br><br><br><br><br><br><br><br>
+ <h1 align="center">
+    <p title="WELCOME"><b>GRAB YOUR CLOTHES</b></p>
+    <p><b><b></p>
+    </h1>
+  <br />
+  <h2 align="center">
+  <a href="#">SIGN UP</a><br>
+  <a href="#">LOGIN</a>
+  </h2>  <br><br><br><br><br><br><br><br><br><br>
+  <br><br><h4 align="center">
+  <iframe src="http://www.ajio.com/shop/women" frameborder="0" height="500px" width="750px"></iframe></h4>
+</body>
+</html>
